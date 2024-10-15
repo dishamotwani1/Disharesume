@@ -1,0 +1,63 @@
+about:
+  name: Disha Motwani
+  tagline: Data Scientist / Business Analyst
+  phone: "+1 520-283-5095"
+  email: dishamotwani@arizona.edu
+  links:
+    - title: /in/dishamotwani
+      url: https://www.linkedin.com/in/dishamotwani/
+      icon: fab fa-linkedin
+    - title: dishamotwani1
+      url: https://github.com/dishamotwani1
+      icon: fab fa-github
+  details: |
+    Enthusiastic data scientist with a specialization in machine learning, passionate about applying data-driven insights to solve complex problems. Committed to continuous learning and professional growth in the field of data science and analytics.
+
+skills:
+  - groupName: Databases & Visualization
+    list:
+      - SQL - Power BI - AutoCAD
+
+  - groupName: Data Analysis & Analytics
+    list:
+      - Python - R - Excel
+      - Machine Learning Algorithms - Statistical Analysis
+
+  - groupName: Programming & Systems
+    list:
+      - Git - Docker - Linux
+
+interests:
+  - Machine Learning
+  - Data Analysis
+  - Health Informatics
+
+languages:
+  - name: Hindi
+    level: Native
+
+  - name: English
+    level: Professional
+
+  - name: Marathi
+    level: Professional
+
+certificates:
+  - title: "Data Science Professional Certificate"
+    subtitle: Coursera
+    date: "2023"
+    link: https://www.coursera.org/professional-certificates
+
+  - title: "Machine Learning Specialization"
+    subtitle: Coursera
+    date: "2023"
+    link: https://www.coursera.org/specializations
+
+awards:
+  - title: "Guinness World Record"
+    date: "2020"
+    subtitle: "Planting 1,99,936 Trees"
+    links:
+      - title: "Project Details"
+        url: https://www.guinessworldrecords.com/
+        icon: fas fa-tree

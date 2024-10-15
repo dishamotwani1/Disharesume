@@ -1,0 +1,15 @@
+- name: Msc. Information Science
+  university: University of Arizona
+  location: Tucson, AZ, USA
+  more: Specialization in Machine Learning
+  link: https://www.mygreatlearning.com/eportfolio/disha-motwani # Optional field, include a link to your project.
+  date: Jul 2023 – May 2025
+  gpa: 4.0 / 4.0
+  details: >
+    Pursuing a Master of Science degree focused on machine learning technologies and applications.
+
+- name: Bsc. Engineering in Information Technology
+  university: Thadomal Sahani Engineering College
+  location: Mumbai, IN
+  date: Aug 2017 – Nov 2021
+  gpa: 3.55 / 4.0

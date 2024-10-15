@@ -1,0 +1,14 @@
+publications:
+  - authors:
+      - last_name: Motwani
+        first_name: Disha
+      - last_name: Sharma
+        first_name: Rohan
+      - last_name: Patil
+        first_name: Priya
+  date: "2024"
+  title: "Artificial Intelligence Applications in Healthcare Management"
+  journal: International Journal of Data Science
+  vol: 12
+  issue: 3
+  page: "45-52"

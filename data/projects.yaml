@@ -1,0 +1,18 @@
+projects:
+- title: "Data Analysis Project on Healthcare Data"
+  subtitle: "University of Arizona"
+  date: "2023"
+  details: |
+    Conducted a comprehensive analysis of healthcare data to uncover trends and improve patient outcomes using Python and SQL. 
+    Developed visualizations to present findings effectively.
+
+- title: "Sustainability Data Visualization"
+  subtitle: "University of Arizona"
+  link: "https://www.mygreatlearning.com/eportfolio/disha-motwani"
+  date: "2024"
+  details: |
+    Created interactive visualizations to illustrate sustainability metrics using Power BI and R. Focused on promoting environmental awareness.
+  links:
+  - title: Available in e-Portfolio
+    url: https://www.mygreatlearning.com/eportfolio/disha-motwani
+    icon: fab fa-gitlab

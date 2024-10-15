@@ -1,0 +1,23 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "My Resume"
+theme: "hugo-resume"
+
+params:
+  name: "Your Name"
+  description: "Your Profession"
+  contact:
+    email: "your.email@example.com"
+    phone: "(555) 555-5555"
+    address: "123 Your Street, City, Country"
+  education:
+    - degree: "Degree Name"
+      institution: "Institution Name"
+      date: "Start - End Date"
+  work_experience:
+    - company: "Company Name"
+      position: "Your Position"
+      duration: "Start - End Date"
+      responsibilities:
+        - "Responsibility 1"
+        - "Responsibility 2"

@@ -1,0 +1,33 @@
+- company: Aastha Health Care
+  roles:
+    - role: Data Analyst
+      details: |
+        Compiled and organized healthcare data to assist in delivering optimal healthcare management and decision-making. 
+        Collected data from multiple sources, managed and organized datasets from database management systems, and 
+        found patterns and trends in data analysis. Transformed complex data into digestible insights and shared findings 
+        with stakeholders through reports and presentations. Provided recommendations for improvement.
+      date: Jun 2021 - Jun 2023
+
+- company: [Previous Company Name]
+  page: 1
+  roles: 
+    - role: [Previous Role Title]
+      tools: [List any relevant tools]
+      details: |
+        [Add relevant details about responsibilities and achievements.]
+      date: [Start Date] - [End Date]
+    
+    - role: [Previous Role Title]
+      tools: [List any relevant tools]
+      date: [Start Date] - [End Date]
+      details: |
+        [Add relevant details about responsibilities and achievements.]
+
+- company: [Previous Company Name]
+  page: 2
+  roles:
+    - role: [Previous Role Title]
+      tools: [List any relevant tools]
+      details: |
+        [Add relevant details about responsibilities and achievements.]
+      date: [Start Date] - [End Date]
